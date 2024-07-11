@@ -1,10 +1,12 @@
 # 💫About Me :
 
-Hi, I'm Tùng! 👋
+Hi, I'm Tùng! 👋 
 
 I'm a passionate coder and developer who loves creating innovative solutions through code. When I'm not diving deep into programming, you can find me streaming games, sharing my gaming adventures with the world.
 
 About Me: 
+
+✉️ Reach me: magicxuantung@gmail.com
 
 🌟 Coder & Developer: Always exploring new technologies and improving my skills. 
 
